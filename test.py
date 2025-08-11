@@ -4,4 +4,4 @@ print(add(3, 4))
 
 def mul(a, b):
     return a*b
-print(34, 6)
+print(mul(34, 6))
