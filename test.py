@@ -5,3 +5,5 @@ print(add(3, 4))
 def mul(a, b):
     return a*b
 print(mul(34, 6))
+def water():
+    print("Drinking Water")
